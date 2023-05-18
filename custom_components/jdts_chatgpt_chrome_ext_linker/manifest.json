@@ -1,0 +1,11 @@
+{
+    "domain": "jdts_chatgpt_chrome_ext_linker",
+    "name": "JDTS ChatGPT Chrome Extension Linker",
+    "documentation": "https://github.com/jdtechsol/chatgpt_chrome_linker",
+    "requirements": [
+      "pyexecjs"
+    ],
+    "dependencies": [],
+    "codeowners": ["@jdtechsol"],
+    "version": "0.1.0"
+  }
